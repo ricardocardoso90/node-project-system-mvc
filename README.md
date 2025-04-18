@@ -9,7 +9,7 @@
 
 ## Instalação:
 
-- `npm init`
+- `npm init -y`
 - `npm i ou npm install`
 
 ## Para rodar:
